@@ -2,7 +2,7 @@
 
 **Last updated:** November 2, 2026
 
-EmoTick ("the App", "we", "our") is developed as an interactive tactile fidget switchboard application for iOS. We respect your privacy and are strictly committed to safeguarding user data. This Privacy Policy outlines our standards and practices.
+EmoTick ("the App", "we", "our") is developed as an interactive tactile fidget application for iOS. We respect your privacy and are strictly committed to safeguarding user data. This Privacy Policy outlines our standards and practices.
 
 ---
 
@@ -11,6 +11,7 @@ EmoTick operates under a strict privacy-first principle:
 * **No Personal Data Collected**: We do not collect, store, transmit, or sell any personally identifiable information (PII).
 * **No Account Required**: The App does not require account creation, login, email addresses, or personal profiles.
 * **100% On-Device Processing**: All shader rendering, haptic generation, sound synthesis, and touch interactions are performed entirely on your device in real time.
+* **Local Preferences Only**: App settings (such as audio presets, timer durations, and trial status) are stored strictly locally on your device using standard iOS UserDefaults. This data never leaves your device.
 * **No External Servers**: We do not operate external servers, collect telemetry, track usage metrics, or store diagnostics.
 
 ---
@@ -18,7 +19,7 @@ EmoTick operates under a strict privacy-first principle:
 ## 2. Permissions and Device Capabilities
 * **Haptics and Audio**: The App uses the device Taptic Engine (CoreHaptics) and AVAudioEngine strictly for real-time sensory feedback in response to your physical touches.
 * **No Microphone or Audio Recording**: The App plays local synthesized sounds and never accesses the device microphone, nor does it record or transmit any audio.
-* **No Sensitive Permissions**: The App does not request access to Camera, Contacts, Photos, Location, Health data, or Apple Music library.
+* **No Sensitive Permissions**: The App does not request access to Camera, Contacts, Photos, Location, or Health data.
 
 ---
 
@@ -49,4 +50,3 @@ If this Privacy Policy is updated, the revised version will be published here wi
 If you have any questions or feedback regarding this Privacy Policy, please contact:
 * **Email**: djbyun@gmail.com
 * **GitHub**: https://github.com/djbyun/EmoTick
-
