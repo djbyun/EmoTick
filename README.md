@@ -1,22 +1,22 @@
-# EmoTick: Tactile Sensory Fidget
+# EmoTick: Emotional & Fun Tactile Fidget
 
-An interactive tactile fidget switchboard iOS app combining real-time Apple Metal shaders, synchronized haptic feedback, and crisp mechanical audio effects.
+An interactive iOS fidget app featuring real-time Apple Metal shaders, synchronized haptic vibrations, and crisp click sounds.
 
 ---
 
 ## Key Features
 
-* **Tactile Sensory Switchboard**: An interactive 3×3 grid of responsive buttons, toggles, and sensory pads designed for tactile satisfaction and stress relief.
-* **Apple Metal Shader Rendering**: Silky 60/120 FPS visuals featuring real-time subsurface glow bleed, Fresnel edge reflections, and dynamic lighting responding to your touches.
-* **Synchronized Haptics & Audio**: Custom tactile vibrations (CoreHaptics) tightly paired with low-latency click sounds for authentic mechanical feedback.
-* **Focus & Stress Relief**: Built for mindful relaxation, ADHD pacing, sensory satisfaction, or mindless fidgeting—completely free of advertisements or distracting notifications.
-* **Lifetime Access & 3-Day Free Trial**: Transparent, one-time in-app purchase powered by Apple StoreKit 2. No recurring subscriptions.
+* **3×3 Tactile Grid**: 9 distinct interactive buttons with responsive visual deformations, light bursts, and satisfying haptics.
+* **Apple Metal Shaders**: Real-time 60/120 FPS graphics with interactive glow bleed, edge reflections, and dynamic lighting.
+* **Crisp Haptics & Audio**: Taptic Engine vibrations tightly synchronized with procedural click sounds.
+* **Pure & Distraction-Free**: No ads, no account sign-in, no notifications, and works 100% offline.
+* **3-Day Free Trial & Lifetime Pass**: Try everything free for 3 days. Keep it forever with a single one-time purchase ($1.99). No subscriptions.
 
 ---
 
 ## Customer Support & Feedback
 
-If you have any questions, encounter issues, or would like to share feedback, please contact us:
+If you have any questions, encounter issues, or would like to share feedback, please contact:
 
 * **Support Email**: djbyun@gmail.com
 * **Response Time**: Usually within 24-48 hours.
@@ -31,4 +31,3 @@ If you have any questions, encounter issues, or would like to share feedback, pl
 ## System Requirements
 * iOS 17.0 or later
 * Compatible with iPhone
-
